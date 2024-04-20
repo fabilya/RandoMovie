@@ -1,6 +1,6 @@
-<img alt="ezgif-3-d5b514c735" height="350" src="https://github.com/fabilya/YaMDb_REST_API/assets/105780672/6441ed59-2786-4e22-bc86-39c438e44735" width="600"/>
-
 # RandoMovie
+
+<img alt="ezgif-3-d5b514c735" height="350" src="https://github.com/fabilya/YaMDb_REST_API/assets/105780672/6441ed59-2786-4e22-bc86-39c438e44735" width="600"/>
 
 ## Table of content
 - [Description](#description)
