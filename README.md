@@ -21,7 +21,7 @@ Service that helps you choose a random movie to watch, and you can also give you
 ### How to start a project:
 
 - Clone the repository and go to it on the command line:
-```
+```Bash
 git clone 
 cd randomovie
 ```
@@ -42,7 +42,7 @@ python3 -m venv venv
 
 * Install dependencies from the requirements.txt file:
 
-```
+```Bash
 python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
